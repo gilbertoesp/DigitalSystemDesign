@@ -5,10 +5,10 @@
     <Chip Name="switch (&apos;2&apos;)" xpos="688128" ypos="3833856" rot="0" key="103520" />
     <Chip Name="switch (&apos;4&apos;)" xpos="720896" ypos="4325376" rot="0" key="103520" />
     <Chip Name="switch (&apos;a&apos;)" xpos="753664" ypos="3080192" rot="0" key="103520" />
-    <Chip Name="switch (&apos;b&apos;)" xpos="1277952" ypos="4489216" rot="0" key="103520" />
-    <Chip Name="switch (&apos;c&apos;)" xpos="2195456" ypos="4554752" rot="0" key="103520" />
+    <Chip Name="switch (&apos;b&apos;)" xpos="1146880" ypos="4358144" rot="0" key="103520" />
+    <Chip Name="switch (&apos;c&apos;)" xpos="2228224" ypos="4358144" rot="0" key="103520" />
     <Chip Name="switch (&apos;3&apos;)" xpos="720896" ypos="4096000" rot="0" key="103520" />
-    <Chip Name="switch (&apos;d&apos;)" xpos="1867776" ypos="4587520" rot="0" key="103520" />
+    <Chip Name="switch (&apos;d&apos;)" xpos="1769472" ypos="4358144" rot="0" key="103520" />
     <Chip Name="LED (red)" xpos="3047424" ypos="4030464" rot="0" key="103520" />
     <Chip Name="LED (green)" xpos="3047424" ypos="3670016" rot="0" key="103520" />
     <Chip Name="LED (yellow)" xpos="3047424" ypos="3342336" rot="0" key="103520" />
